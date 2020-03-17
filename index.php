@@ -2,6 +2,8 @@
 
 echo "Olá mundo redondo!";
 
-echo "teste"
+echo "Olá terra plana!";
+
+echo "Olá saulo!"
 
 ?>
